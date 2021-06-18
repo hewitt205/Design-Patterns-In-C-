@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hewit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hewit\\.nuget\\packages"
+    ]
+  }
+}
