@@ -1,0 +1,15 @@
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Factory\FactoryPattern\bin\Debug\net5.0\FactoryPattern.exe
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Factory\FactoryPattern\bin\Debug\net5.0\FactoryPattern.deps.json
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Factory\FactoryPattern\bin\Debug\net5.0\FactoryPattern.runtimeconfig.json
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Factory\FactoryPattern\bin\Debug\net5.0\FactoryPattern.runtimeconfig.dev.json
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Factory\FactoryPattern\bin\Debug\net5.0\FactoryPattern.dll
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Factory\FactoryPattern\bin\Debug\net5.0\ref\FactoryPattern.dll
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Factory\FactoryPattern\bin\Debug\net5.0\FactoryPattern.pdb
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Factory\FactoryPattern\obj\Debug\net5.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Factory\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Factory\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Factory\FactoryPattern\obj\Debug\net5.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Factory\FactoryPattern\obj\Debug\net5.0\FactoryPattern.dll
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Factory\FactoryPattern\obj\Debug\net5.0\ref\FactoryPattern.dll
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Factory\FactoryPattern\obj\Debug\net5.0\FactoryPattern.pdb
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Factory\FactoryPattern\obj\Debug\net5.0\FactoryPattern.genruntimeconfig.cache
