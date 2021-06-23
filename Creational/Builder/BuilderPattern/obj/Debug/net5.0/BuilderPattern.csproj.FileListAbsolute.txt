@@ -1,0 +1,5 @@
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Builder\BuilderPattern\obj\Debug\net5.0\BuilderPattern.csprojAssemblyReference.cache
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Builder\BuilderPattern\obj\Debug\net5.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Builder\BuilderPattern\obj\Debug\net5.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Builder\BuilderPattern\obj\Debug\net5.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Builder\BuilderPattern\obj\Debug\net5.0\BuilderPattern.csproj.CoreCompileInputs.cache

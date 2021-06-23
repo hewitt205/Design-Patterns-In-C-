@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Factory",
-    "\\Factory\\Factory Pattern"
+    "\\Creational\\Prototype\\Prototype Pattern",
+    "\\Creational\\Singleton\\SingletonPattern",
+    "\\Structural",
+    "\\Structural\\Adapter\\AdapterPattern",
+    "\\Structural\\Bridge\\BridgePattern",
+    "\\Structural\\Composite"
   ],
-  "SelectedNode": "\\Factory\\Factory Pattern\\Program.cs",
+  "SelectedNode": "\\Structural\\Bridge",
   "PreviewInSolutionExplorer": false
 }
