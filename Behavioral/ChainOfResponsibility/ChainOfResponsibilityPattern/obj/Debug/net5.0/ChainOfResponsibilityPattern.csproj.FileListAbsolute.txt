@@ -1,0 +1,5 @@
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Behavioral\ChainOfResponsibility\ChainOfResponsibilityPattern\obj\Debug\net5.0\ChainOfResponsibilityPattern.csprojAssemblyReference.cache
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Behavioral\ChainOfResponsibility\ChainOfResponsibilityPattern\obj\Debug\net5.0\ChainOfResponsibilityPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Behavioral\ChainOfResponsibility\ChainOfResponsibilityPattern\obj\Debug\net5.0\ChainOfResponsibilityPattern.AssemblyInfoInputs.cache
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Behavioral\ChainOfResponsibility\ChainOfResponsibilityPattern\obj\Debug\net5.0\ChainOfResponsibilityPattern.AssemblyInfo.cs
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Behavioral\ChainOfResponsibility\ChainOfResponsibilityPattern\obj\Debug\net5.0\ChainOfResponsibilityPattern.csproj.CoreCompileInputs.cache

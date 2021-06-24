@@ -1,13 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Creational\\Prototype\\Prototype Pattern",
-    "\\Creational\\Singleton\\SingletonPattern",
-    "\\Structural",
-    "\\Structural\\Adapter\\AdapterPattern",
+    "\\Behavioral",
+    "\\Behavioral\\ChainOfResponsibility",
+    "\\Behavioral\\ChainOfResponsibility\\ChainOfResponsibilityPattern",
     "\\Structural\\Bridge\\BridgePattern",
-    "\\Structural\\Composite"
+    "\\Structural\\Composite\\CompositePattern",
+    "\\Structural\\Decorator\\DecoratorPattern",
+    "\\Structural\\Facade\\FacadePattern",
+    "\\Structural\\Flyweight\\FlyweightPattern",
+    "\\Structural\\Proxy\\ProxyPattern"
   ],
-  "SelectedNode": "\\Structural\\Bridge",
+  "SelectedNode": "\\Behavioral\\ChainOfResponsibility\\ChainOfResponsibilityPattern\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
