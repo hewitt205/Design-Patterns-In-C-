@@ -3,13 +3,7 @@
     "",
     "\\Behavioral",
     "\\Behavioral\\ChainOfResponsibility",
-    "\\Behavioral\\ChainOfResponsibility\\ChainOfResponsibilityPattern",
-    "\\Structural\\Bridge\\BridgePattern",
-    "\\Structural\\Composite\\CompositePattern",
-    "\\Structural\\Decorator\\DecoratorPattern",
-    "\\Structural\\Facade\\FacadePattern",
-    "\\Structural\\Flyweight\\FlyweightPattern",
-    "\\Structural\\Proxy\\ProxyPattern"
+    "\\Behavioral\\ChainOfResponsibility\\ChainOfResponsibilityPattern"
   ],
   "SelectedNode": "\\Behavioral\\ChainOfResponsibility\\ChainOfResponsibilityPattern\\Program.cs",
   "PreviewInSolutionExplorer": false

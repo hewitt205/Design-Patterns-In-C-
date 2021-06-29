@@ -1,0 +1,5 @@
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Behavioral\Strategy\StrategyPattern\obj\Debug\net5.0\StrategyPattern.csprojAssemblyReference.cache
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Behavioral\Strategy\StrategyPattern\obj\Debug\net5.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Behavioral\Strategy\StrategyPattern\obj\Debug\net5.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Behavioral\Strategy\StrategyPattern\obj\Debug\net5.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\hewit\source\repos\Design-Patterns-In-C-\Behavioral\Strategy\StrategyPattern\obj\Debug\net5.0\StrategyPattern.csproj.CoreCompileInputs.cache
